@@ -27,7 +27,6 @@ import id.ac.polinema.idealbodyweight.util.BrocaIndex;
 public class BrocaIndexFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
-    private BrocaIndexFragment brocaIndexFragment;
 
     public BrocaIndexFragment() {
         // Required empty public constructor
